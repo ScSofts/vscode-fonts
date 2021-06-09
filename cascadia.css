@@ -1,0 +1,19 @@
+@font-face{
+	font-family:"Cascadia Code";
+	src:url(./CascadiaCode.ttf);
+}
+
+@font-face{
+	font-family:"Cascadia Code Italic";
+	src:url(./CascadiaCodeItalic.ttf);
+}
+
+@font-face{
+	font-family:"Cascadia Code PL";
+	src:url(./CascadiaCodePL.ttf);
+}
+
+@font-face{
+	font-family:"Cascadia Code PL Italic";
+	src:url(./CascadiaCodePLItalic.ttf.ttf);
+}
